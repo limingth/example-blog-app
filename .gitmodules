@@ -1,0 +1,3 @@
+[submodule "meteor-blog"]
+	path = meteor-blog
+	url = https://github.com/limingth/meteor-blog.git
